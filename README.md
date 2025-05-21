@@ -1,0 +1,1 @@
+This repository includes homeworks and projects for Stock Markets Analytics Zoomcamp 2025, organized by DataTalksClub and PythonInvest.  
